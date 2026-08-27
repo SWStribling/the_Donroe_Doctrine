@@ -37,7 +37,7 @@ Euclidean distance to the H-hour signature, converted to similarity via RBF.
   "moderate confidence" at best given the single-baseline design.
 
 ## Findings
-![Rhetoric vs Reality comparison chart](comparison.png)
+![Rhetoric vs Reality comparison chart](DonroeDoctrine-RhetoricReality-barchart.png)
 *The comparison bar chart: Venezuela H-hour signature vs Mexico current, per
 principal component, with the similarity score annotated.*
 
